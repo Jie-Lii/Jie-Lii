@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   + 2019.09~2023.06: B.S., Computer Science and Technology, Huazhong Agricultural University, WuHan, China
 
 - 📫 **Contact Information**
-  + I kindly invite you to contact me at Li_jie@webmail.hzau.edu.cn
+  + I kindly invite you to contact me at *Li_jie@webmail.hzau.edu.cn*
 
  
 <a href="#">
